@@ -50,20 +50,20 @@ The procedure for loading all the datasets into MySQL using Python is as follows
 
 The final product is a database with 6 unique tables. Each table has a unique identifier, and all tables can be referenced in another table by a common identifier. Below are examples of how this database can be used:
 
- ![](/image/ETL_Fig1.png;
+ ![](/image/ETL_Fig1.png)
 
 Figure 1: Job Reviews Per Company
 
 - Figure 1 is an example of using this database to extract performances of a company and compare them to employee reviews and review status. On a larger scale, this could be done for all fortune 500 companies.
 
- ![](/image/ETL_Fig2.png;
+ ![](/image/ETL_Fig2.png)
 
 Figure 2: Revenues vs. stocks
 
 - Figure 2 uses the database to extract stock performances of a company and compare them to revenues and profits.
 -
 
- ![](/image/ETL_Fig3.png;
+ ![](/image/ETL_Fig3.png)
 
 Figure 3: Job Postings vs. Revenue change
 
