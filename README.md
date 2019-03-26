@@ -4,6 +4,7 @@
 # Dean Daley
 
 **Purpose**
+Note: Please refer to github url: https://github.com/mtoriello0725/Fortune500_Database for complete project
 
 The purpose of this database is to provide all relevant information regarding fortune 500 companies. This ranges from fortune 500 ranking, to why they are ranked, to employee reviews, to stock prices, and job postings. An end user for this database should be able to compile some fascinating correlations between the many different aspects of a fortune 500 company.
 
