@@ -1,11 +1,11 @@
-# Jeffrey Mychalchyk
+# Paul Aggarwal - (https://github.com/paulXLV/Fortune500_Jobs_ETL)
 # Mike Toriello - (https://github.com/mtoriello0725/Fortune500_Database)
-# Paul Aggarwal - (https://github.com/paulXLV/ETL-Project)
+# Jeffrey Mychalchyk
 # Dean Daley
 
 **Purpose**
 
-Note: This readme details all work done for this group project by all group members. However, the source code on this github repository (https://github.com/paulXLV/ETL-Project) only contains my Python web scraping work that was used for scraping Indeed job postings of Fortune 500 companies; transforming job posting details into JSON (List of Dictionaries) and then finally loading it into SQL table on MySQL. For the finalized and merged project work by all group members listed above, please refer to github url: https://github.com/mtoriello0725/Fortune500_Database
+Note: This readme details all work done for this group project by all group members. However, the source code on this github repository (https://github.com/paulXLV/Fortune500_Jobs_ETL) only contains my Python web scraping work that was used for scraping Indeed job postings of Fortune 500 companies; transforming job posting details into JSON (List of Dictionaries) and then finally loading it into SQL table on MySQL Fortune 500 database. For the finalized and merged project work by all group members listed above, please refer to github url: https://github.com/mtoriello0725/Fortune500_Database
 
 The purpose of this database is to provide all relevant information regarding fortune 500 companies. This ranges from fortune 500 ranking, to why they are ranked, to employee reviews, to stock prices, and job postings. An end user for this database should be able to compile some fascinating correlations between the many different aspects of a fortune 500 company.
 
