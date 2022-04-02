@@ -1,4 +1,4 @@
-# Paul Aggarwal - (https://github.com/paulXLV/Fortune500_Jobs_ETL)
+# Paul Aggarwal - (https://github.com/paulXLV/Fortune500_Jobs_ETL/blob/master/Fortune500_Indeed_Jobs_ETL.py)
 # Mike Toriello - (https://github.com/mtoriello0725/Fortune500_Database)
 # Jeffrey Mychalchyk
 # Dean Daley
